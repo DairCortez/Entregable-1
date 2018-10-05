@@ -13,9 +13,9 @@
  </center>
   <h3>Estado (MINSA)</h3>
  <center>
-  <img src="minsa.jpg" alt="" class="img-fluid img-rounded">
+  <img src="perfiles/minsa.jpg" alt="" class="img-fluid img-rounded">
  </center>
   <h3>Niños con Anemia</h3>
  <center>
-  <img src="niños.jpg" alt="" class="img-fluid img-rounded">
+  <img src="perfiles/niños.jpg" alt="" class="img-fluid img-rounded">
  </center>
